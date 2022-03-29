@@ -1,0 +1,7 @@
+[
+    {
+      "origin": ["https://img3.chouti.com"],
+      "method": ["GET"],
+      "maxAgeSeconds": 3600
+    }
+  ]

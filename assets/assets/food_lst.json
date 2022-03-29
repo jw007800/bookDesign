@@ -1,0 +1,69 @@
+{
+    "foodLst": [
+         {
+             "foodCategoryEnName": "",
+             "foodEnName": "",
+             "foodCategoryID": "9865112",  
+             "foodKey": "1a7fd3fe-0a4e-49db-b474-8ac70c11a551",
+             "foodName": "蒜蓉空心菜",
+             "foodCategoryName": "精选",
+             "clickAlertMess": "绿色蔬菜，特别新鲜。一年生草本，蔓生或漂浮于水。茎圆柱形，有节，节间中空，节上生根，无毛。\n叶片形状、大小有变化，卵形、长卵形、长卵状披针形或披针形，长3.5-17厘米，宽0.9-8.5厘米，顶端锐尖或渐尖，具小短尖头，基部心形、戟形或箭形，偶尔截形，全缘或波状，或有时基部有少数粗齿，两面近无毛或偶有稀疏柔毛；叶柄长3-14厘米，无毛。\n聚伞花序腋生花序梗长1.5-9厘米，基部被柔毛。",        
+             "foodCategoryKey": "f738fd35-5a46-41f4-8eb3-173f69421d31",   
+             "foodID": "226023227",
+             "description": "",
+             "units": [
+                 {
+                     "unitKey": "341167052",
+                     "unit": "份",
+                     "price": 10,
+                     "vipPrice": 9
+                 }
+             ],
+             "ZXJ": "ZXJ"
+         },
+
+         {
+             "foodCategoryEnName": "",
+             "foodEnName": "",
+             "foodCategoryID": "9865123",  
+             "foodKey": "1a7fd3fe-0a4e-49db-b474-8ac70c11a552",
+             "foodName": "白菜炖土豆",
+             "foodCategoryName": "精选",
+             "clickAlertMess": "就是一颗大白菜",        
+             "foodCategoryKey": "f738fd35-5a46-41f4-8eb3-173f69421d31",   
+             "foodID": "226023228",
+             "description": "",
+             "units": [
+                 {
+                     "unitKey": "341167053",
+                     "unit": "份",
+                     "price": 8,
+                     "vipPrice": 3
+                 }
+             ],
+             "ZXJ": "Z"
+         },
+      {
+             "foodCategoryEnName": "",
+             "foodEnName": "",
+             "foodCategoryID": "9865123",  
+             "foodKey": "1a7fd3fe-0a4e-49db-b474-8ac70c11a751",
+             "foodName": "饺子",
+             "foodCategoryName": "热菜",
+             "clickAlertMess": "韭菜鸡蛋",        
+             "foodCategoryKey": "f738fd35-5a46-41f4-8eb3-173f69422d69",   
+             "foodID": "22603391",
+             "description": "",
+             "units": [
+                 {
+                     "unitKey": "341267148",
+                     "unit": "份",
+                     "price": 18,
+                     "vipPrice": 13
+                 }
+             ],
+             "ZXJ": "ZX"
+         }
+
+             ]
+}
