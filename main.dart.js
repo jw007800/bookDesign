@@ -26997,12 +26997,12 @@ a34:function a34(){},
 aD1:function aD1(a){this.a=a},
 aCf:function aCf(a){this.a=a},
 b85(a){var s=A.aP("host")
-if($.b7s.bs()===B.ot)switch(a.a){case 0:s.b="http://localhost:4501"
+if($.b7s.bs()===B.Ls)switch(a.a){case 0:s.b="http://localhost:4501"
 break
 case 1:s.b="http://localhost:4502"
 break
 case 2:s.b="http://localhost:4503"
-break}if($.b7s.bs()===B.Ls)switch(a.a){case 0:s.b="https://passport.hualala.com"
+break}if($.b7s.bs()===B.ot)switch(a.a){case 0:s.b="https://passport.hualala.com"
 break
 case 1:s.b="https://hr.hualala.com"
 break
@@ -102672,7 +102672,7 @@ return B.an},
 $S:25}
 A.aFw.prototype={
 $2(a,b){var s=null
-return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("/images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
+return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
 $S:67}
 A.a4a.prototype={
 q(a,b){var s,r,q,p,o,n,m=null,l="_childToColor",k=A.bM("\u8c01\u5728\u4f7f\u7528"),j=A.a(k.cr$,l)
@@ -103932,7 +103932,7 @@ $0(){A.ad(A.a(this.a.d,"_tabController").c)},
 $S:0}
 A.aOq.prototype={
 $2(a,b){var s=null
-return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("/images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
+return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
 $S:67}
 A.aOr.prototype={
 $0(){var s=0,r=A.x(t.H),q=this
@@ -107072,7 +107072,7 @@ return A.i(s,A.v3(this.Q,new A.avw()),B.d,s,s,s,s,s,s,s,s,s,s,s)},
 ghh(){return this.z}}
 A.avw.prototype={
 $2(a,b){var s=null
-return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("/images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
+return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
 $S:67}
 A.ZM.prototype={
 gjS(){return A.dK(B.eQ).a},
@@ -108300,7 +108300,7 @@ this.a.d.t1("app://platformHome",this.c,t.z)},
 $S:0}
 A.al0.prototype={
 $2(a,b){var s=null
-return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("/images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
+return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
 $S:67}
 A.al1.prototype={
 $0(){this.a.BT(this.b)},
@@ -109551,7 +109551,7 @@ return B.h},
 $S:25}
 A.b0H.prototype={
 $2(a,b){var s=null
-return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("/images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
+return A.i(s,s,B.d,s,s,new A.aF(s,A.jD(B.q,new A.kj(B.h,B.d5),B.c1,new A.kg("images/home_menu_item_bg.png",s,s),s,B.ax),s,s,s,s,s,B.r),s,s,s,s,s,s,s,s)},
 $S:67}
 A.b0I.prototype={
 $0(){var s=0,r=A.x(t.H),q=this,p,o,n
@@ -127323,8 +127323,8 @@ B.Lp=new A.HN(null)
 B.Lq=new A.HQ(0,"noOpinion")
 B.Lr=new A.HQ(1,"enabled")
 B.k7=new A.HQ(2,"disabled")
-B.ot=new A.Y4(0,"DEV")
-B.Ls=new A.Y4(1,"Prod")
+B.Ls=new A.Y4(0,"DEV")
+B.ot=new A.Y4(1,"Prod")
 B.Lt=new A.vu(0,"none")
 B.Lu=new A.vu(1,"delete")
 B.ou=new A.vu(3,"divEdit")
