@@ -103766,7 +103766,7 @@ var $async$AY=A.t(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:h=null
 p=4
 l=A.eJ(A.aD(["username",a,"password","123456","app_key","821D019A12A2E8C7200D4FE7E27A54EA"],t.N,t.z))
-k="http://hn216.api.yesapi.cn/?s=App.User.LoginExt"
+k="https://hn216.api.yesapi.cn/?s=App.User.LoginExt"
 s=7
 return A.A($.eZ().ei("",l,k),$async$AY)
 case 7:h=c
@@ -106080,7 +106080,7 @@ if(r!=null)r.f=s.a.f}}if(A.a(a.Q.b,"componentTag")==="Food"&&!0){r=a.Q
 r.toString
 r.d=A.a(s.a.d,"componentId")}if(a.Q.geT()===B.cj){r=a.Q
 r.toString
-r.e="http://res.hualala.com/"+s.a.f.fy}if(a.Q.geT()===B.dI){r=a.Q
+r.e="https://res.hualala.com/"+s.a.f.fy}if(a.Q.geT()===B.dI){r=a.Q
 r.toString
 r.e=s.a.f.a}if(a.Q.geT()===B.dJ){r=a.Q
 r.toString
@@ -108051,7 +108051,7 @@ r.c="food1"
 r.b="Food"}else{s=r.d=q.fy
 r.c=q.a
 r.b="\u83dc\u54c1\u56fe\u7247"
-r.e=s.length>0?"http://res.hualala.com/"+s:""}},
+r.e=s.length>0?"https://res.hualala.com/"+s:""}},
 $S:688}
 A.asM.prototype={
 $1(a){return a.y===this.a.y},
