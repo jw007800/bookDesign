@@ -4,19 +4,19 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f9c8574b4e9486b1ca3b6149139e80d4",
-"index.html": "88e380ac218a038796851581b39e9682",
+"index.html": "eb50f0908793b8fb5b9a48fb763f57f9",
 "/": "96b9ccd62ab5d141014571aa445f80dc",
-"main.dart.js": "ccc0653c909abdb338a76c660a0affe5",
+"main.dart.js": "efd246f7633917a5113bc2f580eceb2c",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "cors.json": "ca86c0ed703ce2135eaf4a37e5c22aef",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "df527f6dbde9c00ac5ad94c76e96f84e",
-"assets/AssetManifest.json": "5c0698519131e903abbe65a0b10a4b3c",
-"assets/NOTICES": "e2d3cd38ec1afe31ba9720a619575736",
-"assets/FontManifest.json": "d24f47c29906d6e61a2365ebc00a6d24",
-"assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "b62641afc9ab487008e996a5c5865e56",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/AssetManifest.json": "8e9fb8cbf9704c11810df94dcddc34b4",
+"assets/NOTICES": "3c1956a44ffe96c6147a0ad7153ffc3d",
+"assets/FontManifest.json": "74ada453addfda442a568f1c3189ca64",
+"assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "e9f2f143310604845f8aa26c42ad5f55",
 "assets/packages/flutter_icons/fonts/Octicons.ttf": "73b8cff012825060b308d2162f31dbb2",
 "assets/packages/flutter_icons/fonts/Feather.ttf": "6beba7e6834963f7f171d3bdd075c915",
 "assets/packages/flutter_icons/fonts/Entypo.ttf": "744ce60078c17d86006dd0edabcd59a7",
@@ -33,20 +33,21 @@ const RESOURCES = {
 "assets/packages/flutter_icons/fonts/EvilIcons.ttf": "140c53a7643ea949007aa9a282153849",
 "assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf": "d2285965fe34b05465047401b8595dd0",
 "assets/packages/flutter_icons/fonts/MaterialIcons.ttf": "a37b0c01c0baf1888ca812cc0508f6e2",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
-"assets/packages/flutter_signin_button/assets/logos/google_dark.png": "c32e2778b1d6552b7b4055e49407036f",
-"assets/packages/flutter_signin_button/assets/logos/google_light.png": "f71e2d0b0a2bc7d1d8ab757194a02cac",
-"assets/packages/flutter_signin_button/assets/logos/2.0x/google_dark.png": "937022ea241c167c8ce463d2ef7ed105",
-"assets/packages/flutter_signin_button/assets/logos/2.0x/google_light.png": "8f10eb93525f0c0259c5e97271796b3c",
-"assets/packages/flutter_signin_button/assets/logos/2.0x/facebook_new.png": "83bf0093719b2db2b16e2839aee1069f",
-"assets/packages/flutter_signin_button/assets/logos/3.0x/google_dark.png": "ac553491f0002941159b405c2d37e8c6",
-"assets/packages/flutter_signin_button/assets/logos/3.0x/google_light.png": "fe46d37e7d6a16ecd15d5908a795b4ee",
-"assets/packages/flutter_signin_button/assets/logos/3.0x/facebook_new.png": "12531aa3541312b7e5ddd41223fc60cb",
-"assets/packages/flutter_signin_button/assets/logos/facebook_new.png": "e1dff5c319a9d7898aee817f624336e3",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d8e9b6203ce2657c991f0b339ccb3a6d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "99f29024aee8f4672a47cc3a81b9b84a",
 "assets/packages/flutter_login/assets/images/ecorp.png": "24e80e9441acf073076893cebbe60ac0",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/packages/sign_in_button/assets/logos/google_dark.png": "d18b748c2edbc5c4e3bc221a1ec64438",
+"assets/packages/sign_in_button/assets/logos/google_light.png": "f71e2d0b0a2bc7d1d8ab757194a02cac",
+"assets/packages/sign_in_button/assets/logos/2.0x/google_dark.png": "68d675bc88e8b2a9079fdfb632a974aa",
+"assets/packages/sign_in_button/assets/logos/2.0x/google_light.png": "1f00e2bbc0c16b9e956bafeddebe7bf2",
+"assets/packages/sign_in_button/assets/logos/2.0x/facebook_new.png": "dd8e500c6d946b0f7c24eb8b94b1ea8c",
+"assets/packages/sign_in_button/assets/logos/3.0x/google_dark.png": "c75b35db06cb33eb7c52af696026d299",
+"assets/packages/sign_in_button/assets/logos/3.0x/google_light.png": "3aeb09c8261211cfc16ac080a555c43c",
+"assets/packages/sign_in_button/assets/logos/3.0x/facebook_new.png": "689ce8e0056bb542425547325ce690ba",
+"assets/packages/sign_in_button/assets/logos/facebook_new.png": "93cb650d10a738a579b093556d4341be",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/assets/images/3_user_placeholder.png": "2785b1bedaed3962692a1850a4c50faa",
 "assets/assets/images/hotsportsnapshot/bgimage.png": "bd5c91220c3a3b755b062ba204040ef9",
 "assets/assets/images/hotsportsnapshot/food4.jpg": "537cfa9dfde17b0d2095bcea14b2cce5",
 "assets/assets/images/hotsportsnapshot/food5.jpg": "b1172fb01502eb76c8341b14082f7f38",
@@ -63,8 +64,11 @@ const RESOURCES = {
 "assets/assets/images/hotsportsnapshot/button.png": "b7e057428186ea2d5ca134bdf13809fa",
 "assets/assets/images/home_spaceBar_bg.jpg": "7d3edd40f5129b6d71769867b5511e48",
 "assets/assets/images/home_menu_item_bg.png": "a5da51246a8d15ff4be25520084197bb",
+"assets/assets/images/2_user_placeholder.png": "70386dc75afa9e8f9844ab14937e5e6f",
 "assets/assets/images/weilaiyilai.png": "eccfa251a274612036bbf1f3d12e660a",
+"assets/assets/images/project_app.png": "6194eb229087f75f2f64768f0873e760",
 "assets/assets/images/logo.png": "69532b40b7a6a73232f9bb8b1c71984c",
+"assets/assets/images/1_user_placeholder.png": "9f4d09ec627a1a36d1923d29a9f970e6",
 "assets/assets/images/ifredom.jpg": "d0d42e541ec1af2886de278b26b987ff",
 "assets/assets/images/bg.png": "407cd2297936a15fab092cd160b7c679",
 "assets/assets/food_lst.json": "a691af55259865584e3e98d9bfbb928b",
@@ -85,19 +89,17 @@ const RESOURCES = {
 "assets/assets/animations/lottie/29056-nepenthe-illustration.json": "ae15b1663eaa3983d989ba09d1765409",
 "assets/assets/animations/lottie/18582-as-the-waters-rise.json": "78ddd877055380f26fbcca26f058c2d3",
 "assets/assets/animations/loader.flr": "1e9d4dd205b155c5c5e6ced8f131ed4d",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -196,9 +198,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
