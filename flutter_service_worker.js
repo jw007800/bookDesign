@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f9c8574b4e9486b1ca3b6149139e80d4",
-"index.html": "886966aa12910b1c74e2009428164ba6",
+"index.html": "98eef7de665963b3da75fc2a605ca855",
 "/": "96b9ccd62ab5d141014571aa445f80dc",
-"main.dart.js": "5e1997909bd1a26d8be37ad5efc99ac2",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"main.dart.js": "0cd35d55cc2972d43eda8ff1304aaadf",
 "cors.json": "ca86c0ed703ce2135eaf4a37e5c22aef",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -88,11 +87,7 @@ const RESOURCES = {
 "assets/assets/audio/bgaudio.mp3": "da9d1a5be825bc2dc0150a8cfe4ecfeb",
 "assets/assets/animations/lottie/29056-nepenthe-illustration.json": "ae15b1663eaa3983d989ba09d1765409",
 "assets/assets/animations/lottie/18582-as-the-waters-rise.json": "78ddd877055380f26fbcca26f058c2d3",
-"assets/assets/animations/loader.flr": "1e9d4dd205b155c5c5e6ced8f131ed4d",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/animations/loader.flr": "1e9d4dd205b155c5c5e6ced8f131ed4d"
 };
 
 // The application shell files that are downloaded before a service worker can
