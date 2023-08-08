@@ -1,0 +1,169 @@
+{
+	"pageId": "222222",
+	"hotsportId": "176820",
+	"parentHotsportId": "",
+	"widgetInfo": {
+		"componentTag": "Box",
+		"componentName": "div",
+		"componentId": "",
+		"content": "空的内容",
+		"food": null
+	},
+	"componetOption": {
+		"size": {
+			"width": 688.9908447265625,
+			"height": 120
+		},
+		"textStyle": {
+			"fontSize": 13,
+			"hexColor": "292a24",
+			"fontWeight": "正常",
+			"align": "center"
+		},
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"background": {
+			"imageUrl": "",
+			"hexColor": "c8c7c0"
+		},
+		"boxDecoration": {
+			"hexBorderColor": "3c3c3c",
+			"borderRadius": 0,
+			"lineWidth": 1,
+			"lineType": 0
+		},
+		"foodModelProperty": {
+			"showFoodName": true,
+			"showFoodUnit": true
+		}
+	},
+	"components": [{
+		"pageId": "222222",
+		"hotsportId": "064426",
+		"parentHotsportId": "176820",
+		"widgetInfo": {
+			"componentTag": "Image",
+			"componentName": "image",
+			"componentId": "",
+			"content": "空的内容",
+			"food": null
+		},
+		"componetOption": {
+			"size": {
+				"width": 40,
+				"height": 40
+			},
+			"textStyle": {
+				"fontSize": 13,
+				"hexColor": "292a24",
+				"fontWeight": "正常",
+				"align": "center"
+			},
+			"position": {
+				"x": 0,
+				"y": 0
+			},
+			"background": {
+				"imageUrl": "",
+				"hexColor": "e2d45b"
+			},
+			"boxDecoration": {
+				"hexBorderColor": "3c3c3c",
+				"borderRadius": 0,
+				"lineWidth": 1,
+				"lineType": 0
+			},
+			"foodModelProperty": {
+				"showFoodName": true,
+				"showFoodUnit": true
+			}
+		},
+		"components": []
+	}, {
+		"pageId": "222222",
+		"hotsportId": "641560",
+		"parentHotsportId": "176820",
+		"widgetInfo": {
+			"componentTag": "Box",
+			"componentName": "div",
+			"componentId": "",
+			"content": "空的内容",
+			"food": null
+		},
+		"componetOption": {
+			"size": {
+				"width": 688,
+				"height": 55
+			},
+			"textStyle": {
+				"fontSize": 13,
+				"hexColor": "292a24",
+				"fontWeight": "正常",
+				"align": "center"
+			},
+			"position": {
+				"x": 0,
+				"y": 64
+			},
+			"background": {
+				"imageUrl": "",
+				"hexColor": "e2d45b"
+			},
+			"boxDecoration": {
+				"hexBorderColor": "3c3c3c",
+				"borderRadius": 0,
+				"lineWidth": 1,
+				"lineType": 0
+			},
+			"foodModelProperty": {
+				"showFoodName": true,
+				"showFoodUnit": true
+			}
+		},
+		"components": []
+	}, {
+		"pageId": "222222",
+		"hotsportId": "946328",
+		"parentHotsportId": "176820",
+		"widgetInfo": {
+			"componentTag": "Box",
+			"componentName": "div",
+			"componentId": "",
+			"content": "空的内容",
+			"food": null
+		},
+		"componetOption": {
+			"size": {
+				"width": 234.96112060546875,
+				"height": 46.398712158203125
+			},
+			"textStyle": {
+				"fontSize": 13,
+				"hexColor": "292a24",
+				"fontWeight": "正常",
+				"align": "center"
+			},
+			"position": {
+				"x": 378.70413208007807,
+				"y": 0
+			},
+			"background": {
+				"imageUrl": "",
+				"hexColor": "e2d45b"
+			},
+			"boxDecoration": {
+				"hexBorderColor": "3c3c3c",
+				"borderRadius": 0,
+				"lineWidth": 1,
+				"lineType": 0
+			},
+			"foodModelProperty": {
+				"showFoodName": true,
+				"showFoodUnit": true
+			}
+		},
+		"components": []
+	}]
+}
